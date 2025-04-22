@@ -1,0 +1,10 @@
+# Mac / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Node REPL history
+.node_repl_history

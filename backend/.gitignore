@@ -1,0 +1,47 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+.env.*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+out/
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# PM2 logs
+*.pm2.log
+
+# Others
+tmp/
+temp/
